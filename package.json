@@ -1,0 +1,14 @@
+{
+  "name": "onefile-map-app",
+  "version": "1.0.0",
+  "description": "전국 관할 행정복지센터 및 아파트 검색 앱",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
